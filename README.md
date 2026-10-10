@@ -31,8 +31,6 @@ The goal was to build a functional robotic arm while gaining practical experienc
 | Jumper wires | As required |
 | External servo power supply | 1 |
 
-*Note: Confirm the final servo model and power supply specifications before publishing.*
-
 ## Controls
 
 The arm uses two joysticks to control five servo motors.
