@@ -5,7 +5,6 @@ A joystick-controlled robotic arm built using an Arduino, five servo motors, and
 
 ![Robotic Arm](images/Gripper%20front%20view.png)
 
-
 ## Project Overview
 
 This project is a manually controlled robotic arm capable of performing multiple movements using two joystick modules. Each joystick provides independent control over different sections of the arm, allowing the user to position the arm and operate its gripper.
@@ -33,6 +32,25 @@ The goal was to build a functional robotic arm while gaining practical experienc
 | Robotic arm structure | 1 |
 | Jumper wires | As required |
 | External servo power supply | 1 |
+
+
+## Custom PCB
+Circuit Schematic 
+![Kicad-schematic](images/Gripper%20symbols.png)
+
+PCB Footprint Layout
+![Kicad-footprint](images/Gripper%20footprint.png)
+
+3D PCB Preview
+![Kicad-redner](images/Gripper%20board%203d%20look.png)
+
+Unassembled PCB
+![Unsoldered-board](images/gripper%20board%20unsoldered.png)
+
+Assembled PCB
+![Wired-Board](images/Gripper%20board%20soldered.png)
+
+
 
 ## Controls
 
@@ -112,6 +130,7 @@ Although the project is complete, possible future upgrades include:
 - A web-based control interface
 - Improved mechanical stability and payload capacity
 - More advanced movement control and coordinated motion
+
 
 ## Author
 
