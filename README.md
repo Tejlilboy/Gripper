@@ -14,7 +14,7 @@ The goal was to build a functional robotic arm while gaining practical experienc
 ## Features
 
 - **5 servo motors:** Independent control of five actuators.
-- **Dual-joystick control:** Analog joysticks control arm movement.
+- **Dual-joystick control:** Independent analog inputs with RC low-pass filtering to reduce noise and smooth control signals.
 - **Rotating base:** Rotates the arm horizontally.
 - **Articulated arm:** Multiple joints provide vertical positioning.
 - **Rotating gripper:** Adjusts the claw's orientation.
@@ -32,6 +32,7 @@ The goal was to build a functional robotic arm while gaining practical experienc
 | Robotic arm structure | 1 |
 | Jumper wires | As required |
 | External servo power supply | 1 |
+| 5V, 3 or 5A Buck converter | 1 |
 
 
 ## Custom PCB
