@@ -3,6 +3,9 @@
 
 A joystick-controlled robotic arm built using an Arduino, five servo motors, and two analog joysticks. This project explores embedded systems, servo motor control, analog input processing and basic robotic manipulation.
 
+![Robotic Arm](images/Gripper%20front%20view.png)
+
+
 ## Project Overview
 
 This project is a manually controlled robotic arm capable of performing multiple movements using two joystick modules. Each joystick provides independent control over different sections of the arm, allowing the user to position the arm and operate its gripper.
